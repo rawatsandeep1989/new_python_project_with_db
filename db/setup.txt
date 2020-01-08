@@ -1,0 +1,17 @@
+Here we need to create a db with the following details:
+db : employee_db
+
+Table 1: 
+employee
+a. name
+b. id (PK)
+c. salary
+d. deptt (FK ref id in table2)
+e. contact
+
+Table 2:
+deptt
+a. name
+b. id (PK)
+c. contact_number
+

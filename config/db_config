@@ -1,0 +1,9 @@
+{
+	"_comment":"This contains all the db details which are to be used to connect to employee db",
+	"database_details":{
+	"hostname":"127.0.0.1",
+	"username":"root",
+	"password":"boot",
+	"db":"employee_db"
+	}
+}
